@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: aqua;
+  text-align: center;
+}
+
+.menor {
+  color: tomato;
+}
+
+.mayor {
+  color: chartreuse;
+}
+
+button {
+  margin: 0px 0.5rem;
+}
